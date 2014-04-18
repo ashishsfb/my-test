@@ -1,2 +1,8 @@
 .htaccess
 configuration.php
+
+
+# Never ignore
+!.gitignore
+!index.html
+!index.php
