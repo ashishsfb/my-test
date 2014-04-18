@@ -1,5 +1,5 @@
 <?php
 
 class config{
-	public $test = "Is working?";
+	public $test = "test success?";
 }
