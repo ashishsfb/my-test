@@ -1,5 +1,5 @@
 <?php
 
 class config{
-	public $test = null;
+	public $test = "Is working?";
 }
